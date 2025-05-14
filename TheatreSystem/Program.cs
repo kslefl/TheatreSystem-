@@ -2,10 +2,11 @@
 using System.Collections.Generic;
 
 // Абстрактный класс Театр
-private abstract class Teater
+public abstract class Theater // // опечатка Theater b private заменить на public
 {
     public int NumberOfSeats { get; set; }
     public int NumberOfRows { get; set; }
+    public bool HasOrchestraPit { get; set; } // добавить переменную HasOrchestraPit
     
     public double StageSize { get; set; }
 
