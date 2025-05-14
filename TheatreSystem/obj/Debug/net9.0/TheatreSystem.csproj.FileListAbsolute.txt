@@ -1,0 +1,14 @@
+C:\Users\nasta\OneDrive\Desktop\TheatreSystem\TheatreSystem\bin\Debug\net9.0\TheatreSystem.exe
+C:\Users\nasta\OneDrive\Desktop\TheatreSystem\TheatreSystem\bin\Debug\net9.0\TheatreSystem.deps.json
+C:\Users\nasta\OneDrive\Desktop\TheatreSystem\TheatreSystem\bin\Debug\net9.0\TheatreSystem.runtimeconfig.json
+C:\Users\nasta\OneDrive\Desktop\TheatreSystem\TheatreSystem\bin\Debug\net9.0\TheatreSystem.dll
+C:\Users\nasta\OneDrive\Desktop\TheatreSystem\TheatreSystem\bin\Debug\net9.0\TheatreSystem.pdb
+C:\Users\nasta\OneDrive\Desktop\TheatreSystem\TheatreSystem\obj\Debug\net9.0\TheatreSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasta\OneDrive\Desktop\TheatreSystem\TheatreSystem\obj\Debug\net9.0\TheatreSystem.AssemblyInfoInputs.cache
+C:\Users\nasta\OneDrive\Desktop\TheatreSystem\TheatreSystem\obj\Debug\net9.0\TheatreSystem.AssemblyInfo.cs
+C:\Users\nasta\OneDrive\Desktop\TheatreSystem\TheatreSystem\obj\Debug\net9.0\TheatreSystem.csproj.CoreCompileInputs.cache
+C:\Users\nasta\OneDrive\Desktop\TheatreSystem\TheatreSystem\obj\Debug\net9.0\TheatreSystem.dll
+C:\Users\nasta\OneDrive\Desktop\TheatreSystem\TheatreSystem\obj\Debug\net9.0\refint\TheatreSystem.dll
+C:\Users\nasta\OneDrive\Desktop\TheatreSystem\TheatreSystem\obj\Debug\net9.0\TheatreSystem.pdb
+C:\Users\nasta\OneDrive\Desktop\TheatreSystem\TheatreSystem\obj\Debug\net9.0\TheatreSystem.genruntimeconfig.cache
+C:\Users\nasta\OneDrive\Desktop\TheatreSystem\TheatreSystem\obj\Debug\net9.0\ref\TheatreSystem.dll
